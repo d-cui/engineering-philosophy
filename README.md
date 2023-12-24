@@ -1,5 +1,3 @@
-# Engineering Management Philosophy
-
 # Hello, I’m Dennis.
 
 I’m an engineer, entrepreneur and leader with experience building technology companies from the ground up, growing high performing engineering teams and shipping and scaling 0 → 1 products quickly. I’m looking forward to working with you.
